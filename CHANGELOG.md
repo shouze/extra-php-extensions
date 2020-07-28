@@ -1,5 +1,11 @@
 # Change log
 
+## 0.3.3
+
+### Changed
+
+- Removed ZTS from Blackfire. Thread safe is not needed unless using pthreads.
+
 ## 0.3.2
 
 ### Added
